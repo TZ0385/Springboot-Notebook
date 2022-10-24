@@ -31,6 +31,9 @@
         <module>springboot-jasypt</module>
         <module>springboot-magic-api</module>
         <module>springboot-detect-faces</module>
+        <module>springboot-shardingsphere</module>
+        <!--        <module>springboot-file-storage</module>-->
+
     </modules>
 
     <properties>
